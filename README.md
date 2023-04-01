@@ -1,5 +1,5 @@
 # smhi-cli
-Script to fetch weather data from SMHI in a CLI 
+Script to fetch weather data from SMHI (Swedish Meteorological and Hydrological Institute) in a CLI 
 
 Requirements: Python 3.10.6 or higher 
 
