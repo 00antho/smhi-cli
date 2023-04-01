@@ -11,5 +11,5 @@ change the coordinates for the city you want.
 }
 ```
 
-Input is case-sensitve so make sure you spell the it exactly as in the dictionary. 
+Input is case-sensitve so make sure you spell it exactly as in the dictionary. 
 Feel free to modify or improve!
